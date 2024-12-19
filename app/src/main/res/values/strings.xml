@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PeopleList</string>
+
+    <string-array name="first_names">
+        <item>Вячеслав</item>
+        <item>Александр</item>
+        <item>Илья</item>
+        <item>Иван</item>
+    </string-array>
+
+    <string-array name="last_names">
+        <item>Цыбуля</item>
+        <item>Шокорев</item>
+        <item>Кузьмин</item>
+        <item>Помогаев</item>
+    </string-array>
+
+</resources>
